@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.md322.cn/sitemap.xml
